@@ -13,8 +13,9 @@
 Conçu pour les exploitants agricoles confrontés au stress hydrique et aux aléas climatiques, FieldShift transforme des données satellites brutes (humidité du sol, indice de végétation NDVI, précipitations et anomalies thermiques) en recommandations agronomiques claires, exploitables parcelle par parcelle.
 
 ### 🎥 Démonstration (Demo)
-* 📄 **Présentation (Slides PDF) :** [Voir la présentation FieldShift](./FieldShift_Demo.pdf) *(remplacez par le nom exact de votre fichier PDF ou vidéo `.mp4` déposé sur le repo)*
-* 🎬 **Vidéo de démonstration :** *(Glissez-déposez votre vidéo `.mp4` de 30s directement ici lors de l'édition sur GitHub pour afficher le lecteur intégré)*
+* 📄 **Présentation (Slides PDF) :** [Voir la présentation FieldShift](./FieldShift_Demo.pdf) 
+* 🎬 **Vidéo de démonstration
+* 
 
 ---
 
@@ -47,9 +48,4 @@ Conçu pour les exploitants agricoles confrontés au stress hydrique et aux alé
 * Python >= 3.9
 * Une clé API gratuite [Google AI Studio (Gemini)](https://aistudio.google.com/)
 
-### Étapes d'installation
 
-1. **Cloner le dépôt :**
-   ```bash
-   git clone [https://github.com/votre-utilisateur/fieldshift-nasa-space-apps.git](https://github.com/votre-utilisateur/fieldshift-nasa-space-apps.git)
-   cd fieldshift-nasa-space-apps
